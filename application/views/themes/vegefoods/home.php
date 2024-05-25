@@ -9,8 +9,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
           <div class="col-md-12 ftco-animate text-center">
-            <h1 class="mb-2">Kami Menjual Hanya Sayuran dan Buah Terbaik</h1>
-            <h2 class="subheading mb-4">Sayur dan Buah Segar Langsung dari Kebun</h2>
+            <h1 class="mb-2">Selamat Datang di Toko Buah Segar Inna</h1>
+            <h2 class="subheading mb-4">Buah Segar Langsung dari Kebun</h2>
             <p><a href="#products" class="btn btn-primary">Belanja Sekarang</a></p>
           </div>
 
@@ -24,8 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
           <div class="col-sm-12 ftco-animate text-center">
-            <h1 class="mb-2">100% Sayur dan Buah Segar</h1>
-            <h2 class="subheading mb-4">Sayur dan Buah Segar Langsung dari Kebun</h2>
+            <h1 class="mb-2">100% Buah Segar</h1>
+            <h2 class="subheading mb-4">Buah Segar Langsung dari Kebun</h2>
             <p><a href="#products" class="btn btn-primary">Belanja Sekarang</a></p>
           </div>
 
